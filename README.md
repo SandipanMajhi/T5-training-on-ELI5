@@ -1,6 +1,6 @@
 # T5-training-on-ELI5
 
-The ELI5 dataset tries to address these by creating a long form question answering
+The ELI5 dataset tries to create a long form question answering
 dataset. If a human tries to explain something to a five-year-old, the answer would be complete without
 any factual and informative assumptions. So, ELI5 chose the subreddit forum named, Explain Like I’m Five
 (ELI5) which regards comprehension quality of the answer to a question. Now in subreddit forums, this
