@@ -72,11 +72,11 @@ Test Results -
 
 ```
 Epochs = 1
-Test Loss = 3.75161,
-Rouge1: 9.5595,
-Rouge2: 1.7879,
-RougeL: 7.7084,
-RougeLsum': 8.8886,
+Test Loss = 3.75161
+Rouge1 = 9.5595
+Rouge2 = 1.7879
+RougeL = 7.7084
+RougeLsum = 8.8886
 ```
 
 
