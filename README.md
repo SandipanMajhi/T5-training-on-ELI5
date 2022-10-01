@@ -11,6 +11,15 @@ questions were gathered and split the web sources into sentences and measure TFI
 The concatenation of the sentences with highest TFIDF similarity with respect to the question becomes
 the supporting document. We use T5-small to train the data to build a QA system.
 
+
+Please install the following packages, 
+```
+pip3 install transformers
+pip3 install datasets
+pip3 install rouge_score
+```
+
+
 Because the python file assumes that the trained model to Hugginface_Hub, please run before,
 
 ```
