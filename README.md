@@ -13,8 +13,8 @@ the supporting document.
 
 Run the python file on GPU. In the file, edit the following code block,
 
-'''python
-t5_custom = T5_Small_Custom(model_checkpoint= model_checkpoint, dataset_name= dataset_name, metric_name= metric_name, prefixes=prefixes)
-t5_custom.train(Epochs = 1, train_name = "train_eli5", validation_name = "validation_eli5", 
-                    batch_size = 16, lr = 2e-5, strategy = "epoch" , weight_decay = 0.01, save_limit = 3, fp16 = True)
+'''
+  t5_custom = T5_Small_Custom(model_checkpoint= model_checkpoint, dataset_name= dataset_name, metric_name= metric_name, prefixes=prefixes)
+  t5_custom.train(Epochs = 1, train_name = "train_eli5", validation_name = "validation_eli5", 
+                      batch_size = 16, lr = 2e-5, strategy = "epoch" , weight_decay = 0.01, save_limit = 3, fp16 = True)
 '''
