@@ -57,7 +57,7 @@ t5_custom.train(Epochs = 1, train_name = "train_eli5", validation_name = "valida
 ```
 
 ## Results:
-##Training Results - 
+Training Results - 
 
 ```
 Epochs = 1
@@ -68,7 +68,7 @@ Rouge2 = 1.8303
 RougeL = 7.8132
 RougeLSum = 8.9964
 ```
-##Test Results - 
+Test Results - 
 
 ```
 Epochs = 1
