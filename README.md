@@ -55,3 +55,19 @@ t5_custom = T5_Small_Custom(model_checkpoint= model_checkpoint, dataset_name= da
 t5_custom.train(Epochs = 1, train_name = "train_eli5", validation_name = "validation_eli5", 
                     batch_size = 16, lr = 2e-5, strategy = "epoch" , weight_decay = 0.01, save_limit = 3, fp16 = True)
 ```
+
+## Results:
+####Training Results - 
+
+```
+Training Results - 
+Epochs = 1
+Train Loss = 3.964
+Validation Loss = 3.754
+Rouge1 = 9.6972
+Rouge2 = 1.8303
+RougeL = 7.8132
+RougeLSum = 8.9964
+```
+
+
