@@ -15,6 +15,7 @@ Updates :
 
 ```
 10/2/2022 - T5-small trained for 3 epochs  - https://huggingface.co/Sandipan1994/t5-small-finetuned-eli5
+10/2/2022 - Experimentation with Generation Parameters
 ```
 
 
