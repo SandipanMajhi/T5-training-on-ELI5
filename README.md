@@ -11,6 +11,13 @@ questions were gathered and split the web sources into sentences and measure TFI
 The concatenation of the sentences with highest TFIDF similarity with respect to the question becomes
 the supporting document. We use T5-small to train the data to build a QA system.
 
+Updates : 
+
+```
+10/2/2022 - T5-small trained for 3 epochs  - https://huggingface.co/Sandipan1994/t5-small-finetuned-eli5
+```
+
+
 
 Please install the following packages, 
 ```
