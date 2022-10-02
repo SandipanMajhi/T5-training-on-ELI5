@@ -24,6 +24,10 @@ Please install the following packages,
 pip3 install transformers
 pip3 install datasets
 pip3 install rouge_score
+pip3 install transformers
+pip3 install datasets
+pip3 install rouge_score
+pip install 'gem-metrics @ git+https://github.com/GEM-benchmark/GEM-metrics.git' bert_score
 ```
 
 
