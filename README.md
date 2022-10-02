@@ -73,6 +73,23 @@ t5_custom.train(Epochs = 1, train_name = "train_eli5", validation_name = "valida
 ```
 
 ## Results:
+
+### Updates - 
+
+Training Results - 
+
+```
+Epochs = 3
+Train Loss = 3.935500
+Validation Loss = 3.727522
+Rouge1 = 9.944000
+Rouge2 = 1.908000
+RougeL = 8.014500
+RougeLSum = 9.227500
+```
+
+## Initial Results - 
+
 Training Results - 
 
 ```
@@ -94,5 +111,7 @@ Rouge2 = 1.7879
 RougeL = 7.7084
 RougeLsum = 8.8886
 ```
+
+
 
 
