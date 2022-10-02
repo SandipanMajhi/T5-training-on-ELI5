@@ -21,13 +21,9 @@ Updates :
 ### Prediction Examples
 
 ```
-question: how having hereditary cancer genes doesn’t necessarily mean you’ll get cancer? How can you not get cancer if you have these genes? context: 
+question: How to explain depression to my spouse who believes it's not a real disease and can be controlled by deciding to not be sad. context:  
 
-T5 Answer: "You can't get cancer if you have a hereditary cancer gene. If you're able to get the cancer, then you can get it. 
-You'll have to have the genes that are inherited from your genes. It's not the same thing as the other genes, but the gene is derived from the genetics of your body. This is why it is important to remember that you are not immune to cancer.
-Your immune system has the ability to control cancer by preventing cancer from happening in your brain. 
-There are many different types of cancers that can be found in the brain, and they've been shown to be the only way to do this is to prevent you from getting cancer because of the fact that there is no way of determining how much cancer you will get. Basically, it can cause you to develop cancer in some cases. 
-In the US, cancer is the most common type of disease that causes the disease to become more common in humans. The cancer cells that have these genes are genetically modified, so they can also be used to treat cancer as well. So, when you develop your gene, you might be unable to conceive from it, or you may not have any of them."
+T5 Answer: "It's not a real disease, but if you aren't sad, you're not going to be sad. If you have depression, your spouse will be able to control it by deciding to not feel sad or not. You'll have to think of it as 'assailable', and you will not be happy with it. I'm not sure what you mean by depression. Basically, depression can be controlled by not being sad because it is not an actual disease. This is why depression is the most common disease in the world. The reason it can happen is that you can feel the pain in your life. It is incredibly difficult to get rid of the symptoms of depression as well. Your spouse has to deal with depression in order to prevent it from happening. There are many ways to explain it to my spouse who thinks it'd be difficult for you to do so is to have the same effect on your brain and your body. When you think about it, the person who is sad and sad is so much more likely to suffer from depression than it would be. So, when you do not think that depression has been triggered by the fact that it has no effect."
 ```
 
 
